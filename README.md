@@ -6,4 +6,5 @@
 1. Stay focused
 2. practice self care
 3. learn from mistakes
+
 https://github.com/cscott04/Reading-Notes 
