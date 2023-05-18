@@ -11,20 +11,13 @@ https://github.com/cscott04/Reading-Notes
 
 ## Table of Contents  
 ### 102
-1. [Reading notes 01](https://cscott04.github.io/reading-notes/102/class-01)
-
-2. [Reading notes 02](https://cscott04.github.io/reading-notes/102/class-02)
-
+1. [Reading notes 01](https://cscott04.github.io/reading-notes/102/Class-01)
+2. [Reading notes 02](https://cscott04.github.io/reading-notes/102/Class-02)
 3. [Reading notes 03](https://cscott04.github.io/reading-notes/102/Read-03)
-
 4. [Reading notes 04](https://cscott04.github.io/reading-notes/102/Read-04)
-
 5. [Reading notes 05](https://cscott04.github.io/reading-notes/102/Read-05)
-
 6. [Reading notes 06](https://cscott04.github.io/reading-notes/102/Read-06)
-
 7. [Reading notes 07](https://cscott04.github.io/reading-notes/102/Read-07)
-
 8. [Reading notes 08](https://cscott04.github.io/reading-notes/102/Read-08)
 
 ### 201
