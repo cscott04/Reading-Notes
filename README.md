@@ -10,7 +10,7 @@
 https://github.com/cscott04/Reading-Notes 
 
 ## Table of Contents  
-### 102
+### Intro to Software Development
 1. [Reading notes 01](https://cscott04.github.io/reading-notes/102/Class-01)
 2. [Reading notes 02](https://cscott04.github.io/reading-notes/102/Class-02)
 3. [Reading notes 03](https://cscott04.github.io/reading-notes/102/Read-03)
@@ -20,7 +20,7 @@ https://github.com/cscott04/Reading-Notes
 7. [Reading notes 07](https://cscott04.github.io/reading-notes/102/Read-07)
 8. [Reading notes 08](https://cscott04.github.io/reading-notes/102/Read-08)
 
-### 201
+### Foundations of Software Development
 1. [Reading notes 01](https://cscott04.github.io/reading-notes/201/Read-01)
 1. [Reading notes 02](https://cscott04.github.io/reading-notes/201/Read-02)
 1. [Reading notes 03](https://cscott04.github.io/reading-notes/201/Read-03)
@@ -36,3 +36,7 @@ https://github.com/cscott04/Reading-Notes
 1. [Reading notes 13](https://cscott04.github.io/reading-notes/201/Read-13)
 1. [Reading notes 14](https://cscott04.github.io/reading-notes/201/Read-14)
 1. [Reading notes 15](https://cscott04.github.io/reading-notes/201/Read-15)
+
+### Intermediate Software Development
+
+### Advanced Software Development
