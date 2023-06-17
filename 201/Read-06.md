@@ -18,6 +18,8 @@ Give an example for when you would need to use bracket notation to access an obj
 
 Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
+-it references the objects that is being executed 
+
 
 ## Introduction To The DOM
 
