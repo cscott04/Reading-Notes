@@ -42,3 +42,5 @@ What is the difference between event bubbling and event capturing?
 -With bubbling, the event is first captured and handled by the innermost element and then propagated to outer elements. 
 
 -With capturing, the event is first captured by the outermost element and propagated to the inner elements.
+
+## Things I want to know more about
